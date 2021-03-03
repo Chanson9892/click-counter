@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+#countButton{
+    padding: 5px 5px;
+}
+#resetButton{
+    padding: 5px 5px;
+}
