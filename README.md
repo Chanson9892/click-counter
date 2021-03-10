@@ -5,4 +5,4 @@ Each click of the decrease button moves the gradient to the left unless the coun
 Reset button resets the counter and the gradient.
 
 ### Deployment
-Check out the app here:
+Check out the demo here: https://chanson9892.github.io/click-counter/
